@@ -12,3 +12,4 @@ sniffio
 tabulate
 progressbar2
 aiodns
+pycares>=4.9.0 # not directly required, pinned by Snyk to avoid a vulnerability
